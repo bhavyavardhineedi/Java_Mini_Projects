@@ -1,6 +1,7 @@
 # Java_Mini_Projects    [![](https://img.shields.io/badge/Language-Java-brown?logo=java&style=for-the-badge)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 
+
 ### ***This repo includes some Java basics programs.***
 
 #### 1. _Fabonnaci Series_
